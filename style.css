@@ -1,0 +1,43 @@
+/* Contact Us */
+a{
+    color: black;
+    font-size: 25px;
+    }
+.main_class{
+background-color: darkblue;
+color: white;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 20px;
+}
+.main_class_1{
+    font-size: 22px;
+    background: rgb(164, 165, 237);
+    color: darkblue;
+}
+.main_class_2{
+    font-size: 22px;
+    background: rgb(164, 165, 237);
+    color: darkblue;
+}
+.main_class_3{
+    font-size: 22px;
+    background: rgb(164, 165, 237);
+    color: darkblue;
+}
+/* Home */
+
+.main_class{
+    background-color: darkblue;
+color: white;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 20px;
+}
+.main_class_1{
+    font-size: 22px;
+    background: rgb(164, 165, 237);
+    color: darkblue;
+}
+a{
+color: black;
+font-size: 25px;
+}
