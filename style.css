@@ -41,3 +41,73 @@ a{
 color: black;
 font-size: 25px;
 }
+#main_box{
+    display: flex;
+    gap: 500px;
+    background: rgb(164, 165, 237) ;
+}
+#main_box_2{
+    display: flex;
+    gap: 540px;
+    background: rgb(164, 165, 237) ;
+}
+#main_box_3{
+    display: flex;
+    gap: 550px;
+    background: rgb(164, 165, 237) ;
+}
+#main_box_4{
+    display: flex;
+    gap: 610px;
+    background: rgb(164, 165, 237) ;
+}
+#main_box_5{
+    display: flex;
+    gap: 285px;
+    background: rgb(164, 165, 237) ;
+}
+#main_box_6{
+    display: flex;
+    gap: 590px;
+    background: rgb(164, 165, 237) ;
+}
+.footer{
+    background: rgb(164, 165, 237) ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.background{
+    background: rgb(164, 165, 237) ;
+}
+.hhhhhhhh{
+    background: rgb(164, 165, 237) ;
+}
+#main_box_8{
+    display: flex;
+    gap: 700px;
+    background: rgb(164, 165, 237) ;
+}
+#main_box_9{
+    display: flex;
+    gap: 712px;
+    background: rgb(164, 165, 237) ;
+}
+#main_box_10{
+    display: flex;
+    gap: 600px;
+    background: rgb(164, 165, 237) ;
+}
+#main_box_11{
+    display: flex;
+    gap: 600px;
+    background: rgb(164, 165, 237) ;
+}
+#main_box_12{
+    display: flex;
+    gap: 600px;
+    background: rgb(164, 165, 237) ;
+}
+#main9{
+    display: flex;
+    gap: 600px;
+    background: rgb(164, 165, 237) ;
+}
