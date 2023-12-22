@@ -43,32 +43,32 @@ font-size: 25px;
 }
 #main_box{
     display: flex;
-    gap: 500px;
+    gap: 700px;
     background: rgb(164, 165, 237) ;
 }
 #main_box_2{
     display: flex;
-    gap: 540px;
+    gap: 700px;
     background: rgb(164, 165, 237) ;
 }
 #main_box_3{
     display: flex;
-    gap: 550px;
+    gap: 700px;
     background: rgb(164, 165, 237) ;
 }
 #main_box_4{
     display: flex;
-    gap: 610px;
+    gap: 700px;
     background: rgb(164, 165, 237) ;
 }
 #main_box_5{
     display: flex;
-    gap: 285px;
+    gap: 830px;
     background: rgb(164, 165, 237) ;
 }
 #main_box_6{
     display: flex;
-    gap: 590px;
+    gap: 700px;
     background: rgb(164, 165, 237) ;
 }
 .footer{
