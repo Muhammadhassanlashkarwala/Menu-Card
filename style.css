@@ -1,7 +1,8 @@
 /* Contact Us */
 a{
-    color: black;
+    color: white;
     font-size: 25px;
+
     }
 .main_class{
 background-color: darkblue;
@@ -24,6 +25,13 @@ font-size: 20px;
     background: rgb(164, 165, 237);
     color: darkblue;
 }
+.last_heading{
+    background: rgb(164, 165, 237);
+    a{
+        color: darkblue;
+    margin-left: 20px;
+    }
+}
 /* index */
 
 .main_class{
@@ -38,8 +46,9 @@ font-size: 20px;
     color: darkblue;
 }
 a{
-color: black;
+color: white;
 font-size: 25px;
+margin-left: 170px;
 }
 #main_box{
     display: flex;
