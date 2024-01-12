@@ -54,31 +54,37 @@ margin-left: 170px;
     display: flex;
     gap: 700px;
     background: rgb(164, 165, 237) ;
+    height: 210px;
 }
 #main_box_2{
     display: flex;
     gap: 700px;
     background: rgb(164, 165, 237) ;
+    height: 210px;
 }
 #main_box_3{
     display: flex;
     gap: 700px;
     background: rgb(164, 165, 237) ;
+    height: 210px;
 }
 #main_box_4{
     display: flex;
-    gap: 700px;
+    gap: 702px;
     background: rgb(164, 165, 237) ;
+    height: 200px;
 }
 #main_box_5{
     display: flex;
     gap: 830px;
     background: rgb(164, 165, 237) ;
+    height: 200px;
 }
 #main_box_6{
     display: flex;
-    gap: 700px;
+    gap: 704px;
     background: rgb(164, 165, 237) ;
+    height: 200px;
 }
 .footer{
     background: rgb(164, 165, 237) ;
@@ -94,26 +100,31 @@ margin-left: 170px;
     display: flex;
     gap: 700px;
     background: rgb(164, 165, 237) ;
+    height: 210px;  
 }
 #main_box_9{
     display: flex;
     gap: 712px;
     background: rgb(164, 165, 237) ;
+    height: 210px;  
 }
 #main_box_10{
     display: flex;
     gap: 600px;
     background: rgb(164, 165, 237) ;
+    height: 210px; 
 }
 #main_box_11{
     display: flex;
     gap: 600px;
     background: rgb(164, 165, 237) ;
+    height: 200px; 
 }
 #main_box_12{
     display: flex;
     gap: 600px;
     background: rgb(164, 165, 237) ;
+    height: 200px; 
 }
 #main9{
     display: flex;
