@@ -46,9 +46,15 @@ font-size: 20px;
     color: darkblue;
 }
 a{
+text-decoration: none;
 color: white;
 font-size: 25px;
 margin-left: 170px;
+
+}
+a:hover{
+    background: rgb(164, 165, 237) ;
+    border-radius: 4px;
 }
 #main_box{
     display: flex;
